@@ -1,7 +1,8 @@
 # Neyroladushka
 Помогает определить какой формы оладушек
 
-#Ccылка
+# Ccылка
+
 https://teachablemachine.withgoogle.com/models/nJh1xddO4/
 
 # Актуальность
